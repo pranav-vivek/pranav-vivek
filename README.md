@@ -15,13 +15,5 @@
 </p>
 
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/building-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/building-light.svg">
-      <img alt="Now building: grounded-financial-qa. Question, retrieve, draft, verify, answer, retrying when verification fails." src="assets/building-light.svg" width="100%">
-    </picture>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/pranav-vivek-0b403330b/">LinkedIn</a>
 </p>
